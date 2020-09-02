@@ -21,8 +21,8 @@
   <link rel="stylesheet" href="./index.css">
 
   <!--引入组件 注意要添加type="text/babel"-->
-  <!--因为这是在html中引入react 组件里使用的是jsx语法，浏览器不识别jsx，需要babel转换成es5，上面引入的babel库就是干这事的-->
-  <!--在实际项目中大部分是使用脚手架搭建的项目，以及集成了babel-->
+  <!--因为这是在html中引入react，组件里使用的是jsx语法，浏览器不识别jsx，需要babel转换成es5，上面引入的babel库就是干这事的-->
+  <!--在实际项目中大部分是使用脚手架搭建的项目，已经集成了babel-->
   <script src="./Item.js" type="text/babel"></script>
   <script src="./index.js" type="text/babel"></script>
 </head>
