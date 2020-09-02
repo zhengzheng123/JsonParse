@@ -32,6 +32,6 @@
 </body>
 </html>
 ```
-- 双击打开html即可看到效果
+- 双击打开html即可测试
 
 ![Image text](https://github.com/zhengzheng123/git-images/blob/master/jsonParse.png)
