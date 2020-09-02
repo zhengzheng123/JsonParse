@@ -1,0 +1,20 @@
+ul,li{
+    list-style: none;
+    font-size: 14px;
+}
+.box{
+    position: relative;
+}
+
+.toggle{
+    position: absolute;
+    left: -10px;
+}
+
+.open:after{
+    content: '+';
+}
+
+.close:after{
+    content: '-';
+}
